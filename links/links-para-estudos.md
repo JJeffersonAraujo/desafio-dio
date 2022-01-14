@@ -1,4 +1,4 @@
-﻿# ***ESTUDOS***
+﻿# ESTUDOS
 
 Lista de links importantes para o desenvolvimento pessoal e profissional. Segue a lista:
 
