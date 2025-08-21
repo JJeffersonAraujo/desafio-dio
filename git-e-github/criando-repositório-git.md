@@ -15,11 +15,11 @@ ls –a = A flag “a” mostra os arquivos ocultos do GIT. Utilizando esta flag
 Utilizar os comandos para identificar o usuário :
 
   
-git config –global user.email “[jeffersonaraujo.pe@gmail.com](mailto:jeffersonaraujo.pe@gmail.com)”
+git config –global user.email “email”
 
 e
 
-git config – global user.name JJeffersonAraujo
+git config – global user.name "usuário" (sem aspas)
 
   
 SÓ DEPOIS DE SE IDENTIFICAR VC CONSEGUE DAR O COMANDO COMMIT E PUSH.
